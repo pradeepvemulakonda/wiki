@@ -1,6 +1,8 @@
 # wiki
 ```
 NPM
+
+sudo npm install -g npm
 ```
 - npm init --yes | -y(default settings) => creates a package.json
 - npm install --save-dev webpack (Installs webpack in your local package and sets the dev dependency)
