@@ -10,3 +10,8 @@ sudo npm install -g npm
 - npm debup (npm3 -> removes duplicate sub dependencies)
 - npm ls (shows the dependency tree)
 - install order from a package.json
+
+````
+Package.json
+````
+
